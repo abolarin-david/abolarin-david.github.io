@@ -1,0 +1,83 @@
+body{
+    background-color:yellowgreen;
+    color:bisque;
+}
+h1{
+    color:red;
+}
+main{
+    color:lightslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:black;
+    text-decoration: underline;
+}
+
+ol{
+    color:blue;
+    list-style-type: disc;
+    text-align: justify;
+    padding:10px;
+}
+
+ul{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: underline;
+}
+a:hover,a:focus{
+    color:brown;
+    background: black;
+}
+
+ul{
+    text-align: right;
+    background-color: darkgrey;
+    margin: 0;
+}
+
+ul li{
+    display: inline-block;
+    margin:5px;
+}
+
+img{
+    width:200px;
+}
+body{
+    background: url(../image/christina-victoria-craft-ZHys6xN7sUE-unsplash.jpg);
+    background-position: center;
+}
+
+.contact h2{
+    color: black;
+    margin-left: 100px;
+}
+
+.contact{
+    width:500px;
+    height:400px;
+    background-color:gold;
+    position: center;
+}
+
+form p{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+    
+
+
+
+
+
